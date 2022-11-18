@@ -1,0 +1,27 @@
+{
+  "name": "winter-bot",
+  "version": "1.0.0",
+  "description": "Open source discord winter bot!",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AVionDEV/winter-bot.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "JS",
+    "Discord",
+    "DiscordJS",
+    "NodeJS",
+    "Node"
+  ],
+  "author": "AVion <AVprojectTM@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVionDEV/winter-bot/issues"
+  },
+  "homepage": "https://github.com/AVionDEV/winter-bot#readme"
+}
