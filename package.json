@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/AVionDEV/winter-bot/issues"
   },
-  "homepage": "https://github.com/AVionDEV/winter-bot#readme"
+  "homepage": "https://github.com/AVionDEV/winter-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
 }
